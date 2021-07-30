@@ -1,0 +1,24 @@
+= redmine_add_all_issues_link_in_issues_sidebar
+
+This is a simple Redmine plugin that adds an all issues link to the issues sidebar.
+
+== Requirements
+
+* Redmine >= 4.1.0.
+
+== Features
+
+* Adds an 'View all issues' link to the sidebar of the issues show view.
+
+== Getting the plugin
+
+A copy of the plugin can be downloaded from {GitHub}[https://github.com/MischaTheEvil/redmine_add_all_issues_link_in_issues_sidebar].
+
+== Installation and Setup
+
+1. Follow the Redmine plugin installation steps at: https://www.redmine.org/projects/redmine/wiki/Plugins. Make sure the plugin is installed to +plugins/redmine_add_all_issues_link_in_issues_sidebar+. This plugin does not contain DB migrations, so these steps can be omitted.
+2. Restart Redmine.
+
+== License
+
+This plugin is licensed under the GNU GPL v2. See COPYRIGHT.txt and GPL.txt for details.
