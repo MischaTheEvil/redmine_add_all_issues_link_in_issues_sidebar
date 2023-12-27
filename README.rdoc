@@ -4,7 +4,7 @@ This is a simple Redmine plugin that adds an all issues link to the issues sideb
 
 == Requirements
 
-* Redmine >= 4.1.0.
+* Redmine >= 5.1.0.
 
 == Features
 
